@@ -1,0 +1,119 @@
+h1{
+    background-color: darkred;
+    margin: 0;
+}
+
+#mu{
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 3px 0;
+}
+
+h2{
+    margin: 1px 0;
+    background-color: navy;
+}
+
+.te{
+    display: flex;
+}
+#te1{
+    display: grid;
+    grid-template-columns: 250px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    color: blanchedalmond;
+    background-color: black;
+}
+
+.button {
+    background-color: navy;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    margin: 0 10px;
+}
+
+
+#header{
+    width: 50%;
+    color: white;
+    text-align: start;
+    font-size: 30px;
+}
+
+#digital-clock{
+    width: 50%;
+    color: white;
+    text-align: end;
+    font-size: 20px;
+    margin: 0;
+    
+}
+
+.k{
+    color: burlywood;
+    background-color: navy;
+    width: auto;
+    margin: 0;
+}
+
+.da{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+/*drop donw*/
+.dropbtn {
+    background-color: navy;
+    color: white;
+    padding: 0px 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: darkred;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.01);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: wheat;
+    font-size: 14px;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+      color: black;
+      font-size: 16px;
+      background-color: salmon;
+    }
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: salmon;}
