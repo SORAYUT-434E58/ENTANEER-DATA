@@ -1,5 +1,5 @@
 h1{
-    background-color: darkred;
+    background-color: #613318;
     margin: 0;
 }
 
@@ -12,7 +12,7 @@ h1{
 
 h2{
     margin: 1px 0;
-    background-color: navy;
+    background-color: #4e6172;
 }
 
 .te{
@@ -29,7 +29,7 @@ h2{
 }
 
 .button {
-    background-color: navy;
+    background-color: #4e6172;
     border: none;
     color: white;
     padding: 15px 40px;
@@ -67,7 +67,7 @@ h2{
 
 .k{
     color: burlywood;
-    background-color: navy;
+    background-color: #4e6172;
     width: auto;
     margin: 0;
 }
@@ -79,7 +79,7 @@ h2{
 
 /*drop donw*/
 .dropbtn {
-    background-color: navy;
+    background-color: #4e6172;
     color: white;
     padding: 0px 16px;
     font-size: 16px;
@@ -94,7 +94,7 @@ h2{
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: darkred;
+    background-color: #613318;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.01);
     z-index: 1;
