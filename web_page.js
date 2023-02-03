@@ -32,7 +32,7 @@ setInterval(function(){
 
 function ali(){
     if (confirm("\n\nEE-CMU FILES,\n***      Login By CMU ACCOUNT      ***")) {
-        window.open("https://drive.google.com/drive/folders/1gYDL3YfUNNDjy519IyD_39mErDTsk6SE?usp=sharing")
+        window.open("https://o365cmu-my.sharepoint.com/:f:/g/personal/sorayut_t_cmu_ac_th/Ethw7g2XlwlFn76Q0wzQ9NIBC4DwwTtuhbsH1mha9rp5Eg?e=wvongu")
     }
 }
 
